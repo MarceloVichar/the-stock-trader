@@ -1,6 +1,6 @@
 export default [
-    { id: 1, name: "BMW", price: "110" },
-    { id: 2, name: "WM", price: "120" },
-    { id: 3, name: "APPLE", price: "200" },
-    { id: 4, name: "OUTRA", price: "50" },
+    { id: 1, name: "LETS", price: "210" },
+    { id: 2, name: "AMAZON", price: "120" },
+    { id: 3, name: "APPLE", price: "100" },
+    { id: 4, name: "GOOGLE", price: "50" },
 ]
