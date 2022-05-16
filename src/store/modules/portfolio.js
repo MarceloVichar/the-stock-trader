@@ -14,7 +14,7 @@ export default {
                     quantity: quantity
                 })
             }
-            state.funds -= stockPrice + quantity
+            state.funds -= stockPrice * quantity
         },
         sellStock(state, { stockId, quantity, stockPrice }) {
             const record = state.stocks.find(element => element.id == stockId)
